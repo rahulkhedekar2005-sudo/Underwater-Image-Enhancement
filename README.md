@@ -45,6 +45,4 @@ The model produces visually improved images with enhanced contrast and reduced h
 4. Train the model using `train.py`
 5. Test the model using `test_model_on_image.py`
 
-## Author
-Rahul Khedekar
 
